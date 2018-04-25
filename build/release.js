@@ -5,6 +5,7 @@ function copyFile(filename) {
   fs.writeFileSync(`dist/${filename}`, fs.readFileSync(filename));
 }
 
+copyFile('index.js');
 copyFile('package.json');
 
 adjustMD({

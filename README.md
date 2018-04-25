@@ -1,5 +1,16 @@
 # adjust-md-for-publish
 
+[![Version npm][version]](http://browsenpm.org/package/adjust-md-for-publish)
+[![Dependencies][david]](https://david-dm.org/johvin/adjust-md-for-publish)
+[![Known Vulnerabilities][vulnerabilities]](https://snyk.io/test/npm/adjust-md-for-publish)
+[![License][license]](https://opensource.org/licenses/MIT)
+
+[version]: http://img.shields.io/npm/v/adjust-md-for-publish.svg?style=flat-square
+[david]: https://img.shields.io/david/johvin/adjust-md-for-publish.svg?style=flat-square
+[vulnerabilities]: https://snyk.io/test/npm/adjust-md-for-publish/badge.svg?style=flat-square
+[license]: https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square
+
+
 > This is a tool to adjust markdown document for publishing npm package, such as removing some section out from the destination document
 
 ## Usage
